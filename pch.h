@@ -1,0 +1,14 @@
+#pragma once
+#define NOMINMAX
+#include <cstdint>
+#include <arrayfire.h>
+#include <filesystem>
+#include <fstream>
+#include <sstream>
+#include <unordered_map>
+#include <mutex>
+#include <thread>
+#include <atomic>
+#include <stacktrace>
+#include <random>
+#include <array>
