@@ -219,7 +219,3 @@ int main()
   - `File.h`: Utility library for `CSVFile` and `ReadCSVFile`.
 
 -----
-
-## Contribution
-
-Contributions are welcome\! Please feel free to open an `issue` or submit a `pull request` on our GitHub repository (link to your repository).
