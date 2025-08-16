@@ -178,7 +178,7 @@ int main()
         while(true){
             for (uint32_t i = 0; i < 10; i++)
             {
-                loader.GetaAsAF(img_data[i],label[i]);
+                loader.GetAsAF(img_data[i],label[i]);
             }
             do
             {
